@@ -10,8 +10,7 @@
 <div align="center">
 
 <!-- EDIT: banner image — optional, replace with your own if you make one -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6a00ff,100:0d0221&height=220&section=header&text=Muhammad%20Jamshaid%20Nawaz&fontSize=46&fontColor=D6B4FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%26%20Computer%20Vision%20Engineer%20%7C%20Generative%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:6a00ff,100:0d0221&height=140&text=Muhammad+Jamshaid+Nawaz&fontSize=36&fontColor=D6B4FF&fontAlignY=40&desc=AI+%7C+ML+%26+Computer+Vision+Engineer+%7C+Generative+AI+Developer&descAlignY=70&descSize=16" width="100%"/>
 <!-- Animated typing line -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=780&lines=AI+%26+ML+Engineer+%7C+Python+Developer;Full+Stack+Web+Developer;BS+Computer+Science+Student;Building+RAG+Agents+%26+Intelligent+Systems;Founder+%40+JS+Digital+Hub" alt="Typing SVG" />
@@ -365,7 +364,8 @@ I enjoy building practical AI products, dashboards, chatbots, full-stack web app
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jamshaid-develop&show_icons=true&theme=dark&hide_border=true&bg_color=0d0221&title_color=B388FF&icon_color=B388FF&text_color=e6e6e6" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshaid-develop&theme=dark&hide_border=true&background=0d0221&stroke=B388FF&ring=6a00ff&fire=B388FF&currStreakLabel=B388FF" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=jamshaid-develop&theme=dark&hide_border=true&background=0d0221&stroke=B388FF&ring=6a00ff&fire=B388FF&currStreakLabel=B388FF" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshaid-develop&layout=compact&theme=dark&hide_border=true&bg_color=0d0221&title_color=B388FF&text_color=e6e6e6" />
 
@@ -383,7 +383,7 @@ I enjoy building practical AI products, dashboards, chatbots, full-stack web app
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=jamshaid-develop&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-trophies.vercel.app/?username=jamshaid-develop&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
