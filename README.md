@@ -164,8 +164,10 @@ I enjoy building practical AI products, dashboards, chatbots, full-stack web app
 </tr>
 
 <tr>
-🧠 <b><a href="https://github.com/jamshaid-develop/DocuMind">DocuMind</a></b><br/>
+<td>
+🧠 <b><a href="https://github.com/jamshaid-develop/documind">DocuMind</a></b><br/>
 <a href="https://jamshaid-3990-documind-groq.hf.space">🔗 Live Demo</a>
+</td>
 <td>RAG-based document assistant that answers questions from PDFs using vector search</td>
 <td><code>Python</code> <code>LangChain</code> <code>RAG</code> <code>ChromaDB</code></td>
 </tr>
