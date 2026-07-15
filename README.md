@@ -107,15 +107,20 @@ I enjoy building practical AI products, dashboards, chatbots, full-stack web app
 <br/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=B388FF" />
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=B388FF" />
 
 **Backend**
 <br/>
@@ -144,6 +149,9 @@ I enjoy building practical AI products, dashboards, chatbots, full-stack web app
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=B388FF" />
 <img src="https://img.shields.io/badge/Arduino_IDE-000000?style=for-the-badge&logo=arduino&logoColor=B388FF" />
 
@@ -221,8 +229,10 @@ I enjoy building practical AI products, dashboards, chatbots, full-stack web app
 </tr>
 
 <tr>
-<td>📄 <b>Resume Builder</b></td>
+<td>
+📄 <b>Resume Builder</b><br/>
 <a href="https://jami-ats-cv-builder.netlify.app/">🔗 Live Demo</a>
+</td>
 <td>Tool to generate structured, formatted resumes</td>
 <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
 </tr>
@@ -278,7 +288,8 @@ I enjoy building practical AI products, dashboards, chatbots, full-stack web app
 </table>
 
 > 💡 More project details, live demos, and case studies: **[jamshaid-nawaz.netlify.app](https://jamshaid-nawaz.netlify.app/)**
-
+> 
+> 📁 Source code for all projects: **[View Repositories](https://github.com/jamshaid-develop?tab=repositories)**
 ---
 
 <!-- ============================================================ -->
