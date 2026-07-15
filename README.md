@@ -10,10 +10,11 @@
 <div align="center">
 
 <!-- EDIT: banner image — optional, replace with your own if you make one -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:6a00ff,100:0d0221&height=140&text=Muhammad+Jamshaid+Nawaz&fontSize=36&fontColor=D6B4FF&fontAlignY=40&desc=AI+%7C+ML+%26+Computer+Vision+Engineer+%7C+Generative+AI+Developer&descAlignY=70&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6a00ff,100:0d0221&height=220&text=Muhammad+Jamshaid+Nawaz&fontSize=42&fontColor=D6B4FF&fontAlignY=32&desc=AI+ML+and+Computer+Vision+Engineer+-+Generative+AI+Developer&descAlignY=55&descSize=14" width="100%"/>
+
 <!-- Animated typing line -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=780&lines=AI+%26+ML+Engineer+%7C+Python+Developer;Full+Stack+Web+Developer;BS+Computer+Science+Student;Building+RAG+Agents+%26+Intelligent+Systems;Founder+%40+JS+Digital+Hub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=780&lines=Hi+there!+I'm+Jamshaid+Nawaz+%F0%9F%91%8B;AI+%2F+ML+Engineer+%26+Full+Stack+Developer;I+build+intelligent+systems+that+solve+real+problems;How+can+I+help+you+today%3F;Let's+connect+%E2%80%94+links+below+%F0%9F%91%87" alt="Typing SVG" />
 </a>
 
 <br/>
